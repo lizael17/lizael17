@@ -8,13 +8,13 @@
 
 - Objetivo concluído = X
 
--(X)estou estudando programação para criar jogo.
+- (X)estou estudando programação para criar jogo.
 
--(X)dominar HTML e CSS.
+- (X)dominar HTML e CSS.
 
--( )dominar PYTHON.
+- ( )dominar PYTHON.
 
--( )criar site inteligente.
+- ( )criar site inteligente.
 
 <!---
 lizael17/lizael17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
