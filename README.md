@@ -1,13 +1,13 @@
 - ola meu nome é lizael
-- eu gosto muito de brincar com HTML eCSS.
+- eu gosto muito de brincar com HTML e CSS.
 - eu queria criar jogos mais ainda estou,
-- estudando para ter mais conhecimento em
-- java script e python são duas línguas que,
+- estudando para ter mais conhecimento
+- em PYTHON são duas línguas que,
 - ainda não dominei muito mais sei um pouquinho
 
 - 
 - Objetivo concluído = X
--(X)estou estudando programação para criar jogos.
+-(X)estou estudando programação para criar jogo.
 -(X)dominar HTML e CSS.
 -( )dominar PYTHON.
 -( )criar site inteligente.
