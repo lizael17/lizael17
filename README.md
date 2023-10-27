@@ -7,9 +7,13 @@
 
 
 - Objetivo concluído = X
+
 -(X)estou estudando programação para criar jogo.
+
 -(X)dominar HTML e CSS.
+
 -( )dominar PYTHON.
+
 -( )criar site inteligente.
 
 <!---
